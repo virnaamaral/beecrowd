@@ -1,10 +1,18 @@
 #include <stdio.h>
 
-int main(void){
-    int a, b, c, maiorab, maiorabc;
-    scanf("%i %i %i", &a, &b, &c);
-    maiorab = ((a+b+(abs(a-b)))/2);
-    maiorabc = ((maiorab+c+(abs(maiorab-c)))/2);
-    printf("%i eh o maior\n", maiorabc);
+int maior_f(int a, int b){
+    int maior = ((a+b+abs(a-b))/2);
+    return maior;
+}
+
+int main(){
+    int a, b, c, maiorAB, maiorABC;
+    scanf("%d %d %d", &a, &b, &c);
+
+    maiorAB = maior_f(a, b);
+    maiorABC = maior_f(maiorAB, c);
+
+    printf("%d eh o maior\n", maiorABC);
+
     return 0;
 }
