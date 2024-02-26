@@ -1,3 +1,9 @@
+/*
+    autor: Virna Amaral
+    data: 01/03/2023
+    nome: Pula ASapo
+*/
+
 #include <stdio.h>
 
 int main(){

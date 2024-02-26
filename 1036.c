@@ -1,3 +1,9 @@
+/*
+    autor: Virna Amaral
+    data: 25/05/2023
+    nome: Fórmula de Bhaskara
+*/
+
 #include <stdio.h>
 #include <math.h>
 

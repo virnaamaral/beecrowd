@@ -1,3 +1,9 @@
+/*
+    autor: Virna Amaral
+    data: 25/05/2023
+    nome: Intervalo
+*/
+
 #include <stdio.h>
 
 int main(){

@@ -1,3 +1,9 @@
+/*
+    autor: Virna Amaral
+    data: 09/03/2023
+    nome: Funções
+*/
+
 #include <stdio.h>
 #include <math.h>
 

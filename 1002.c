@@ -1,3 +1,9 @@
+/*
+    autor: Virna Amaral
+    data: 15/02/2023
+    nome: Área do Circulo
+*/
+
 #include <stdio.h>
 
 int main(void){

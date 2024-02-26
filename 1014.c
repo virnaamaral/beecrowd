@@ -1,3 +1,9 @@
+/*
+    autor: Virna Amaral
+    data: 18/02/2023
+    nome: Consumo
+*/
+
 #include <stdio.h>
 
 int main(void){

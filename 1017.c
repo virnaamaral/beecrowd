@@ -1,3 +1,9 @@
+/*
+    autor: Virna Amaral
+    data: 22/02/2023
+    nome: Gasto de Combustível
+*/
+
 #include <stdio.h>
 
 int main(void){

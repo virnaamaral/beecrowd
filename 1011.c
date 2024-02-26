@@ -1,3 +1,9 @@
+/*
+    autor: Virna Amaral
+    data: 17/02/2023
+    nome: Esfera
+*/
+
 #include <stdio.h>
 
 int main(void){

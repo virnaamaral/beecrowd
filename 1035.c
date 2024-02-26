@@ -1,3 +1,9 @@
+/*
+    autor: Virna Amaral
+    data: 25/02/2023
+    nome: Teste de Seleção 1
+*/
+
 #include <stdio.h>
 
 int main(){

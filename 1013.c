@@ -1,3 +1,9 @@
+/*
+    autor: Virna Amaral
+    data: 07/03/2023
+    nome: O Maior
+*/
+
 #include <stdio.h>
 
 int maior_f(int a, int b){

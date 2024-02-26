@@ -1,3 +1,9 @@
+/*
+    autor: Virna Amaral
+    data: 07/03/2023
+    nome: Matriz Quadrada I
+*/
+
 #include <stdio.h>
 
 int main(){
@@ -18,7 +24,7 @@ int main(){
             }
         }
 
-        for(i=0;i<N;i++){        
+        for(i=0;i<N;i++){
             for(j=0;j<N;j++){
                 printf("%3d", matrix[i][j]);
                 if(j != N-1) {

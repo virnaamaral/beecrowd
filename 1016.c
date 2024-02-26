@@ -1,3 +1,9 @@
+/*
+    autor: Virna Amaral
+    data: 20/02/2023
+    nome: Distância
+*/
+
 #include <stdio.h>
 
 int main(void){

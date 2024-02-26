@@ -1,3 +1,9 @@
+/*
+    autor: Virna Amaral
+    data: 10/03/2023
+    nome: Acima da Média
+*/
+
 #include <stdio.h>
 
 float med(int n, int vet_n[n]);
@@ -14,7 +20,7 @@ int main(){
         for(j=0;j<n;j++){
             scanf("%d", &vet_n[j]);
             if(j==n-1){
-                printf("%.3f%%\n", med(n, vet_n));            
+                printf("%.3f%%\n", med(n, vet_n));
             }
         }
     }

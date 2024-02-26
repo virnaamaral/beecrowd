@@ -1,3 +1,9 @@
+/*
+    autor: Virna Amaral
+    data: 06/03/2023
+    nome: A Fronteira Final
+*/
+
 #include <stdio.h>
 
 int main(){

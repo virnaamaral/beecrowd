@@ -1,3 +1,10 @@
+/*
+    autor: Virna Amaral
+    data: 25/02/2023
+    nome: Conversão de Tempo
+*/
+
+
 #include <stdio.h>
 
 int main(){
